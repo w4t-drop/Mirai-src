@@ -19,9 +19,11 @@
     "OTPKEY": "",
     "BOTNAME": "Mirai-V2",
     "PREFIX": "!",
-    "ADMINBOT": [],
+    "ADMINBOT": [
+        "100090168070553"
+    ],
     "NDH": [
-        "502275138"
+        ""
     ],
     "version": "2.0.0"
 }
