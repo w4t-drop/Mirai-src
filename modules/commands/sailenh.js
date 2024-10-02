@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 this.config = {
-    name: "",
+    name: "\n",
     version: "1.0.0",
     hasPermission: 0,
     credits: "DC-Nam",
