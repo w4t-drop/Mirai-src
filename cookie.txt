@@ -1,1 +1,1 @@
-
+locale=vi_VN;ps_l=1;ps_n=1;datr=W_z7ZkF-jlJ5Eq1XrMNGbL07;sb=W_z7Zurot59Se3ojLXPPnKA8;c_user=61560839870893;fr=09qq5OKovDZETrtkA.AWWX94xLCIR5uywS8LAHNiFxTkI.Bm-_xb..AAA.0.0.Bm-_1q.AWUZuPdfkxI;xs=9%3A2ZPq6TUph0_aFg%3A2%3A1727790446%3A-1%3A15077;vpd=v1%3B736x393x2.75;dpr=2.75;m_page_voice=61560839870893;wl_cbv=v2%3Bclient_version%3A2635%3Btimestamp%3A1727865697;fbl_st=100424560%3BT%3A28797771;m_pixel_ratio=2.75;wd=393x736;
