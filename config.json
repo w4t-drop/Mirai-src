@@ -17,13 +17,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Mirai-V2",
+    "BOTNAME": "TNT",
     "PREFIX": "!",
     "ADMINBOT": [
         "100090168070553"
     ],
     "NDH": [
-        ""
+        "100090168070553"
     ],
     "version": "2.0.0"
 }
