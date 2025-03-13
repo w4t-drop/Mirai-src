@@ -2,7 +2,7 @@ this.config = {
     name: "menu",
     version: "1.1.1",
     hasPermssion: 0,
-    credits: "DC-Nam mod by Niio-team",
+    credits: "Duc Tan",
     description: "Xem danh sách lệnh và info",
     commandCategory: "Nhóm",
     usages: "[tên lệnh/all]",
