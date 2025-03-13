@@ -18,7 +18,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Maris",
-    "PREFIX": "pls",
+    "PREFIX": "/",
     "ADMINBOT": [
         "7950144"
     ],
