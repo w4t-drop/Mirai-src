@@ -17,13 +17,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "TNT",
-    "PREFIX": "!",
+    "BOTNAME": "Maris",
+    "PREFIX": "pls",
     "ADMINBOT": [
-        "100090168070553"
+        "7950144"
     ],
     "NDH": [
-        "100090168070553"
+        "7950144"
     ],
     "version": "2.0.0"
 }
